@@ -57,7 +57,7 @@ public class SpringBootWebfluxApirestApplication implements CommandLineRunner {
 					new Producto("Samsung Galaxy A50 4/128GB Negro Libre ",275.95,smartphone),
 					new Producto("Samsung Galaxy S10e Negro Libre ",579.00, smartphone),
 					new Producto("Xiaomi Redmi Note 8 Pro 6/128Gb Verde Libre ",269.00,smartphone),
-					new Producto("Xiaomi Redmi Note 8T 4/64GB Blanco Lunar Libre ",192.00,smartphone),
+					new Producto("Xiaomi Redmi Note 8T 4/64GB Blanco Lunar Libre",192.00,smartphone),
 					new Producto("Brother HL-L2310D Impresora Láser Monocromo ",64.99,impresora),
 					new Producto("Krom Kernel TKL Teclado Mecánico Gaming RGB Compacto ",49.99,teclado)	
 					)
